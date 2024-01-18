@@ -33,7 +33,9 @@ Je suis toujours à la recherche de nouvelles technologies et outils pour élarg
   ## 📫Me contacter
  
 Bien sûr, je serais ravie de me connecter, de collaborer ou de discuter de l'analyse des données avec vous. N'hésitez pas à me contacter par e-mail ou par téléphone au. Je suis également disponible sur les réseaux sociaux suivants :
+
   LinkedIn: https://www.linkedin.com/in/noubicier-ginette/
+  
   Email: colette.noubicier@gmail.com
 
 Construisons ensemble des insights data qui inspirent les décisions ! 🚀
