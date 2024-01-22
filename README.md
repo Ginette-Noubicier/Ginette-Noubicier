@@ -1,3 +1,4 @@
+
 # Salut-ici-je-suis-Colette-Noubicier-👋
 Ginette Noubicier
 
@@ -17,15 +18,24 @@ Je vous remercie de votre attention.
 
 Voici quelques-unes des technologies et des outils que je maîtrise 
 
-### Langages
 
-Langages de programmation: Python, SQL
+| Rank | Langages |
+|-----:|---------------|
+|Langages de programmation:|   Python, SQL|
+|Outils d'analyse de données:|    PowerBi           |
+|Base de données:|    MYSQL, SQLITE|
+|Machine Learning:|  scikit-learn|
 
-Outils d'analyse de données: Power BI
+<details>
+<summary>My top Languages</summary>
 
-Machine Learning: scikit-learn, 
-
-Bases de données: MySQL, SQLite
+| Rank | Langages |
+|-----:|---------------|
+|Langages de programmation:|   Python, SQL|
+|Outils d'analyse de données:|    PowerBi           |
+|Base de données:|    MYSQL, SQLITE|
+|Machine Learning:|  scikit-learn|
+</details>
 
 Je suis également familiarisée avec les outils suivants :
 
