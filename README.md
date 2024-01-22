@@ -19,8 +19,8 @@ Je vous remercie de votre attention.
 Voici quelques-unes des technologies et des outils que je maîtrise 
 
 
-| Rank | Langages |
-|-----:|---------------|
+|Rank| Langages |
+|-----|---------------|
 |Langages de programmation:|   Python, SQL|
 |Outils d'analyse de données:|    PowerBi           |
 |Base de données:|    MYSQL, SQLITE|
