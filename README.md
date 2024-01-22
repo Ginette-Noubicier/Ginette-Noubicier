@@ -1,4 +1,4 @@
-# Salut-ici-je-suis-Colette-Noubicier-👋
+
 Ginette Noubicier
 
 Je suis une Data Analyst avec une passion pour l'analyse de données. Mon expertise réside dans l'extraction de connaissances et de insights à partir de données complexes, en utilisant une variété de techniques et d'outils.
