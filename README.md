@@ -26,16 +26,7 @@ Voici quelques-unes des technologies et des outils que je maîtrise
 |Base de données:|    MYSQL, SQLITE|
 |Machine Learning:|  scikit-learn|
 
-<details>
-<summary>My top Languages</summary>
 
-| Rank | Langages |
-|-----:|---------------|
-|Langages de programmation:|   Python, SQL|
-|Outils d'analyse de données:|    PowerBi           |
-|Base de données:|    MYSQL, SQLITE|
-|Machine Learning:|  scikit-learn|
-</details>
 
 Je suis également familiarisée avec les outils suivants :
 
