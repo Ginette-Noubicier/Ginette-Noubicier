@@ -30,18 +30,16 @@ Je suis une analyste de données motivée et axée sur les résultats avec une p
 
 #### Mes compétences et ma personnalité:
 
-•	Solveur de problèmes analytique et créatif avec un talent pour trouver des solutions innovantes.
+•	Solveuse de problèmes analytique et créative avec un talent pour trouver des solutions innovantes.
 
 •	Solides compétences en communication et en présentation, me permettant de transmettre efficacement des concepts complexes à un public diversifié.
 
-•	Très collaboratif et axé sur le travail d'équipe, favorisant un environnement de travail positif et productif.
+•	Très collaborative et axée sur le travail d'équipe, favorisant un environnement de travail positif et productif.
 
 Une valeur ajoutée pour votre équipe:
 Je suis convaincue que mes compétences combinées, ma passion et mon expérience me feraient un atout inestimable pour votre équipe. Je suis impatiente de contribuer mon expertise en analyse de données pour aider votre organisation à atteindre ses objectifs et à prospérer dans le paysage commercial en constante évolution.
 
-Si vous recherchez un analyste de données passionné et axé sur les résultats, je vous invite à explorer davantage mes qualifications. Je suis impatiente de discuter de la manière dont je pourrais contribuer au succès de votre entreprise.
-
-Si vous recherchez un Data Analyst talentueux et motivé, je serai ravie de discuter de vos opportunités.
+Si vous recherchez une analyste de données passionnée et axée sur les résultats, je vous invite à explorer davantage mes qualifications. Je suis impatiente de discuter de la manière dont je pourrais contribuer au succès de votre entreprise.
 
 Je vous remercie de votre attention.
 
